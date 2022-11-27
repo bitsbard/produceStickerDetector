@@ -1,0 +1,4 @@
+//
+// The `SAMPLE_CODE_DISAMBIGUATOR` configuration is to make it easier to build
+// and run a sample code project.
+SAMPLE_CODE_DISAMBIGUATOR=${DEVELOPMENT_TEAM}
