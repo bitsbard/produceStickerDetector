@@ -1,4 +1,4 @@
-# ProduceStickerDetector
+# produceStickerDetector
 
 Applying vision algorithms to identify objects in real-time video.
 
